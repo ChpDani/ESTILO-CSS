@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+  <title>Mi primera página con estilo</title>
+  <style type="text/css">
+    body {
+        padding-left:11em;
+      color: rgb(97, 16, 97);
+      background-color: #1d7c58 }
+      ul.navbar {
+        list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 2em;
+    left: 1em;
+    width: 9em }
+    h1 {
+    font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif }
+  ul.navbar li {
+    background: white;
+    margin: 0.5em 0;
+    padding: 0.3em;
+    border-right: 1em solid black }
+  ul.navbar a {
+    text-decoration: none }
+  a:link {
+    color: blue }
+  a:visited {
+    color: purple }
+    </style>
+</head>
+
+<body>
+
+<!-- Menú de navegación del sitio -->
+<ul class="navbar">
+  <li><a href="indice.html">Página principal</a>
+  <li><a href="meditaciones.html">Meditaciones</a>
+  <li><a href="ciudad.html">Mi ciudad</a>
+  <li><a href="enlaces.html">Enlaces</a>
+</ul>
+
+<!-- Contenido principal -->
+<h1>Licenciada en Antropología. Instituto Superior de Ciencias Médicas de La Habana.</h1>
+
+<p> INTRODUCCION
+    La UNESCO ha sentenciado que "la finalidad esencial de un artículo científico es comunicar los resultados de investigaciones, ideas y debates de una manera clara, concisa y fidedigna; la publicación es uno de los métodos inherentes al trabajo científico. Es preciso establecer estrategias de publicación bien elaboradas y seguir con conocimiento de causa una serie de normas adecuadas para facilitar el intercambio entre científicos de todos los países y reducir a proporciones razonables el incremento del volumen de publicaciones".1
+    Creo que la mejor manera de aprender a escribir un artículo científico es, haciéndolo, aceptando la crítica de los revisores, que a mi juicio desempeñan una función primordial, porque lo que se escribe siempre es menos preciso de lo que se piensa. El autor, al repasar el manuscrito, lee lo que escribió y lo que pensó; el revisor, sólo lee lo que se escribió, esta lectura permite la detección de errores y la expresión de ideas incompletas desde una posición externa que ayudan al autor a corregir sus deficiencias en la expresión de su discurso, de allí que su actuación sea de notoria importancia en el proceso de elaboración del artículo.
+    
+    Por otra parte, cuando se trata el tema del artículo científico, creo ineludible declarar el nexo que lo une con el proceso de investigación. Lo que se investiga y no se escribe, o se escribe y no se publica, equivale a que no se investiga, en tal caso se pierde la consistencia en el tiempo y el caudal de información de investigadores y colectivos científicos. Es poco probable que de una investigación con deficiencias metodológicas se pueda escribir un buen artículo. Resulta poco frecuente que una revista científica rechace un artículo por problemas formales, éstos tienen arreglo; lo importante, trascendente e irreversible son los problemas de contenido y estos últimos son causados, generalmente, por un mal diseño experimental. Pero una buena investigación puede no conducir a un buen artículo si no se conoce el modo adecuado de elaborarlo. Un artículo mal redactado puede dar al traste con el resultado de una buena investigación, si no está bien presentado.
+    
+    Otro elemento que se debe considerar es la necesaria sujeción a reglas que aplican los editores en aras de mejorar las publicaciones, y que toman en cuenta aspectos de tipo técnico, informático, económico y literario.2,3
+    
+    Un clásico de la medicina, Don Santiago Ramón y Cajal, ha citado a quien calificó de sabio bibliotecario, el Sr. Billing , de la Biblioteca Nacional de Medicina de Washington, quien aconsejaba a los publicistas científicos la sumisión a las siguientes reglas:
+    
+    Tener algo que decir.
+    Decirlo.
+    Callarse en cuanto queda dicho.
+    Dar a la publicación título y orden adecuado.4
+    Estas pueden asumirse como reglas de oro de la redacción científica, que deben ser consideradas por quienes están en "riesgo" de escribir y revisar artículos científicos con la intención de mejorar la calidad de su trabajo.
+    Partiendo de estas premisas enfocaré el presente trabajo hacia el comentario de los requerimientos particulares que deben seguirse al redactar un artículo científico y comentaré algunos de los errores más frecuentes que se cometen en su redacción.
+    
+    Robert Day define el artículo científico como: "un informe escrito y publica do que describe resultados originales de investigación... que debe ser escrito y publicado de cierta forma, definida por tres siglos de tradiciones cambiantes, práctica editorial, ética científica e influencia recíproca de los procedimientos de impresión y publicación".5
+    
+    Las publicaciones biomédicas dictan normas editoriales que informan los requisitos técnicos con que deben ser presentados los trabajos originales que se presentan en sus publicaciones. Desde 1978 se reunió en Vancouver, Canadá, un grupo de editores de revistas biomédicas en inglés, los cuales convinieron en crear requerimientos uniformes de preparación de manuscritos. Este grupo evolucionó al llamado Comité Internacional de Editores de Revistas Médicas. Los requerimientos han sido revisados periódicamente y más de 300 publicaciones han acordado aceptar éstos. Por la universalidad que para las publicaciones médicas tienen, me adscribo a estos criterios normativos en referencia a los acápites con los que debe contar un artículo científico.
+
+    <h1>ARTICULOS DOS</h1>
+<p>INTRODUCCION
+    En este acápite se debe identificar nítidamente el problema y encuadrarlo en el momento actual, exponer breve mente los trabajos más relevantes, y destacar las contribuciones de otros autores al tema objeto de estudio, justificar las razones por las que se realiza la investigación y formular las hipótesis y los objetivos pertinentes.
+    MATERIAL Y METODO
+    La redacción de este apartado es muy importante. Su contenido debe permitir a cualquier profesional especializado en el tema replicar la investigación. Según apunta Day5 "la redacción cuidadosa de esta sección es de importancia crítica, porque la piedra angular del método científico exige que los resultados obtenidos, para tener valor científico, sean reproducibles; y, a fin de que los resultados se consideren como tales, es necesario suministrar la base para que otros puedan repetir los experimentos".
+    Una secuencia recomendable para escribir este apartado será: definir la población y el grupo de estudio, el diseño seleccionado, la selección y asignación de sujetos a grupos de estudio, la intervención o tratamiento, los métodos de análisis y los de trata miento de la información (análisis estadístico).
+    
+    De los métodos ya establecidos se dará solamente la referencia, se describirán brevemente aquéllos que no son bien conocidos; y con todo detalle los métodos nuevos o que estén sustancial mente modificados; se explicarán las razones por las cuales se usan y sus limitaciones si las tuviesen.
+    
+    Se deben identificar con precisión todas las drogas usadas y dar el nombre genético, la dosis y la vía de administración.
+    
+    En este capítulo se deben especificar los fundamentos éticos del estudio. En experimentos con humanos se debe indicar si se siguieron los patrones éticos de la Declaración de Helsinki de 1975, revisada en 1983. No se deben utilizar nombres, iniciales o números de historias clínicas, especialmente en materiales ilustrativos. En experimentación animal se indicará si se siguieron los lineamientos de la institución o de alguna ley nacional en el uso y cuidado de los animales, o se notificarán los recomen dados en la guía del National Research Council.8
+    
+    Se deben describir las pruebas estadísticas con suficiente detalle para que un lector avezado con acceso a los datos originales pueda verificar los resultados notificados. Se debe evitar el uso exclusivo de pruebas de significación (valores de p); es recomendable utilizar intervalos de confianza. Si se utilizan métodos de asignación al azar se debe explicar con nitidez la forma en que se realizó, de igual manera se detallará cuando se hayan utilizado métodos de enmascaramiento. Es recomendable utilizar como referencias de los métodos empleados libros de texto conocidos y evitar la cita de artículos, cuando esto sea posible.9
+    
+    Los errores más frecuentes encontrados en este apartado han sido: diseño inapropiado para los objetivos del estudio, en desacuerdo con el nivel actual de conocimientos del problema o con inconvenientes éticos, muestra no representativa del universo, imprecisión en la descripción de materiales, de los métodos de análisis clínicos y estadísticos, la inclusión de resultados y la falta de ordenamiento.
+
+<!-- Firma y fecha de la página, ¡sólo por cortesía! -->
+<address>21-oct-2021<br>
+  teseom</address>
+
+</body>
+</html>
